@@ -23,7 +23,7 @@ func NewWaitForPortAction() action.Action {
 
 const interval = 500 * time.Millisecond
 
-// WaitForPortAction defines tha action implementation
+// WaitForPortAction defines tha action implementation.
 type WaitForPortAction struct {
 }
 
