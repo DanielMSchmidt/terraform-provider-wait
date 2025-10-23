@@ -6,7 +6,7 @@ This Provider will never wait for an amount of time since this enables brittle i
 ## Using the provider
 
 
-See the [documentation](./docs/index.md) for details on how to use the provider and its actions.
+See the [documentation](http://registry.terraform.io/providers/DanielMSchmidt/wait/latest) for details on how to use the provider and its actions.
 
 
 ## Developing the Provider
